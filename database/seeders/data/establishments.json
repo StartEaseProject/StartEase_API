@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Higher School of Business ESAA Algiers",
+        "short_name": "ESAA Algiers",
+        "logo": "http://localhost:8000/storage/establishments/essa.jpeg",
+        "description": "The Higher School of Business ESAA Algiers is a renowned institution specializing in business education and management studies. It offers undergraduate and postgraduate programs in areas such as finance, marketing, entrepreneurship, and international business.",
+        "headmaster": {
+            "username": "k_kiared",
+            "email": "k.kiared@essa-alger.dz",
+            "phone_number": "0555965555",
+            "photo_url": "http://localhost:8000/images/users/kiared.jpg",
+            "person": {
+                "first_name": "Karim",
+                "last_name": "Kiared"
+            }
+        },
+        "announcements": [
+            {
+                "title": "Announcement of ESAA",
+                "description": "The University of ESAA is having an event",
+                "location": "ESAA",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-7.jpeg",
+                "date": "2023-06-26",
+                "start_date": null,
+                "end_date": null,
+                "type": "single day",
+                "visibility": "public"
+            }
+        ]
+    },
+    {
+        "name": "Higher School of Applied Sciences ESSA Algiers",
+        "short_name": "ESSA Algiers",
+        "logo": "http://localhost:8000/storage/establishments/essa-2.png",
+        "description": "L’Ecole Supérieure des Sciences Appliquées d’Alger ‘ESSA-Alger’, est une école supérieure algérienne créée par le décret exécutif N° 17-303 du 2 Safar 1439 correspondant au 22 octobre 2017 portant transformation de l’école préparatoire en sciences et techniques d’Alger en école supérieure en sciences appliquées. Cette transformation s’inscrit dans la politique de développement des établissements d’enseignement supérieur soutenue par la tutelle, l’expérience des écoles préparatoires en tant que pôles d’excellence devant être mise à contribution pour la mise en place d’écoles supérieures qui forment des cadres hautement qualifiés.",
+        "headmaster": {
+            "username": "direct_essa",
+            "email": "directeur.essa@essa-alger.dz",
+            "phone_number": "0558219625",
+            "photo_url": "http://localhost:8000/images/users/default.png",
+            "person": {
+                "first_name": "Directeur",
+                "last_name": "ESSA"
+            }
+        },
+        "announcements": [
+            {
+                "title": "Announcement of ESSA",
+                "description": "The University of ESSA is having an event",
+                "location": "ESSA",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-8.jpeg",
+                "date": "2023-06-26",
+                "start_date": null,
+                "end_date": null,
+                "type": "single day",
+                "visibility": "public"
+            }
+        ]
+    },
+    {
+        "name": "Higher School of Computer Science and Digital Technologies.",
+        "short_name": "ESTIN Bejaia",
+        "logo": "http://localhost:8000/storage/establishments/estin.png",
+        "description": "The Higher School of Computer Science and Digital Technologies is a prestigious academic institution in Algeria that focuses on computer science education and research. It offers undergraduate and graduate programs, as well as various research opportunities",
+        "headmaster": {
+            "username": "tari_abd",
+            "email": "tari@estin.dz",
+            "phone_number": "0559075237",
+            "photo_url": "http://localhost:8000/images/users/tari.jpg",
+            "person": {
+                "first_name": "Abdelkamel",
+                "last_name": "Tari"
+            }
+        },
+        "announcements": [
+            {
+                "title": "Announcement of ESTIN",
+                "description": "The University of ESTIN is having an event",
+                "location": "ESTIN",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-9.jpeg",
+                "date": "2023-06-26",
+                "start_date": null,
+                "end_date": null,
+                "type": "single day",
+                "visibility": "public"
+            }
+        ]
+    },
+    {
+        "name": "Higher School of Electrical and Energy Engineering ESGEE Oran",
+        "short_name": "ESGEE Oran",
+        "logo": "http://localhost:8000/storage/establishments/esgee.jpg",
+        "description": "The Higher School of Electrical and Energy Engineering ESGEE Oran is a specialized institution that focuses on electrical engineering, renewable energy technologies, and sustainable development. It offers cutting-edge programs in these fields.",
+        "headmaster": {
+            "username": "f_khelfi",
+            "email": "f.khelfi@esgee-oran.dz",
+            "phone_number": "0559625455",
+            "photo_url": "http://localhost:8000/images/users/esgee_head.jpg",
+            "person": {
+                "first_name": "Faycel",
+                "last_name": "Khelfi"
+            }
+        },
+        "announcements": [
+            {
+                "title": "Announcement of ESGEE",
+                "description": "The University of ESGEE is having an event",
+                "location": "ESGEE",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-10.jpg",
+                "date": "2023-06-26",
+                "start_date": null,
+                "end_date": null,
+                "type": "single day",
+                "visibility": "public"
+            }
+        ]
+    },
+    {
+        "name": "Higher School of Electronics and Computer Science ESI Algiers",
+        "short_name": "ESI Algiers",
+        "logo": "http://localhost:8000/storage/establishments/esi-alger.png",
+        "description": "The Higher School of Electronics and Computer Science ESI Algiers is a leading institution in Algeria for electronics and computer science education. It offers comprehensive programs covering topics such as software engineering, embedded systems, and telecommunications.",
+        "headmaster": {
+            "username": "m_koudil",
+            "email": "m.koudil@esi.dz",
+            "phone_number": "+21323939133",
+            "photo_url": "http://localhost:8000/images/users/koudil.jpg",
+            "person": {
+                "first_name": "Mouloud",
+                "last_name": "Koudil"
+            }
+        },
+        "announcements": []
+    },
+    {
+        "name": "National Polytechnic School of Algiers",
+        "short_name": "ENP",
+        "logo": "http://localhost:8000/storage/establishments/enp.png",
+        "description": "The National Polytechnic School of Algiers is a leading engineering institution in Algeria. It provides high-quality education and research opportunities in various fields of engineering, including civil engineering, electrical engineering, mechanical engineering, and more.",
+        "headmaster": {
+            "username": "a_mekhaldi",
+            "email": "m.mekhaldi@enp.dz",
+            "phone_number": "0555555555",
+            "photo_url": "http://localhost:8000/images/users/mekhaldi.jpg",
+            "person": {
+                "first_name": "Abdelouahab",
+                "last_name": "Mekhaldi"
+            }
+        },
+        "announcements": []
+    },
+    {
+        "name": "Higher National School of Artificial Intelligence",
+        "short_name": "ENSIA Algiers",
+        "logo": "http://localhost:8000/storage/establishments/ensia.png",
+        "description": "The National School of Artificial Intelligence (ENSIA) is an excellent higher education institution aimed at training engineers specializing in the theory of artificial intelligence and data science. They will have the ability to develop and deploy practical and innovative solutions to problems in various socio-economic sectors (health, energy, agriculture, transportation, etc.) that will contribute to the scientific and economic development of the country.",
+        "headmaster": {
+            "username": "a_bachir",
+            "email": "a.bachir@ensia.dz",
+            "phone_number": "0555555559",
+            "photo_url": "http://localhost:8000/images/users/bachir.jpeg",
+            "person": {
+                "first_name": "Abdelmalik",
+                "last_name": "Bachir"
+            }
+        },
+        "announcements": []
+    },
+    {
+        "name": "University of Bejaia",
+        "short_name": "UB",
+        "logo": "http://localhost:8000/storage/establishments/ub.jpeg",
+        "description": "The University of Bejaia (UB) is an esteemed academic institution located in Bejaia, Algeria. It offers diverse educational programs in fields such as sciences, engineering, economics, arts, and languages, along with research opportunities.",
+        "headmaster": {
+            "username": "b_saidani",
+            "email": "b.saidani@ub-bejaia.dz",
+            "phone_number": "0555555550",
+            "photo_url": "http://localhost:8000/images/users/saidani.jpeg",
+            "person": {
+                "first_name": "Boualem",
+                "last_name": "Saidani"
+            }
+        },
+        "announcements": []
+    },
+    {
+        "name": "University of Tizi Ouzou",
+        "short_name": "UMMTO",
+        "logo": "http://localhost:8000/storage/establishments/tizi.jpeg",
+        "description": "The University of Tizi Ouzou (UTO) is an esteemed academic institution in Tizi Ouzou, Algeria. It provides a wide range of educational programs in various fields, including sciences, engineering, humanities, arts, and social sciences.",
+        "headmaster": {
+            "username": "a_bouda",
+            "email": "a.bouda@tizi.dz",
+            "phone_number": "0555555553",
+            "photo_url": "http://localhost:8000/images/users/bouda.jpeg",
+            "person": {
+                "first_name": "Ahmed",
+                "last_name": "Bouda"
+            }
+        },
+        "announcements": []
+    },
+    {
+        "name": "University of Science and Technology Houari Boumediene",
+        "short_name": "USTHB",
+        "logo": "http://localhost:8000/storage/establishments/usthb.jpeg",
+        "description": "The University of Science and Technology Houari Boumediene is a prestigious academic institution in Algeria. It offers a wide range of academic programs across multiple disciplines, including humanities, social sciences, natural sciences, engineering, and more.",
+        "headmaster": {
+            "username": "dj_ak",
+            "email": "dj.akretche@usthb.dz",
+            "phone_number": "0555555554",
+            "photo_url": "http://localhost:8000/images/users/akretche.jpeg",
+            "person": {
+                "first_name": "Djamel Eddine",
+                "last_name": "Akretche"
+            }
+        },
+        "announcements": [
+            {
+                "title": "Announcement 1 of USTHB",
+                "description": "The University of Science and Technology Houari Boumediene is having an event",
+                "location": "USTHB",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-2.jpg",
+                "date": "2023-06-26",
+                "start_date": null,
+                "end_date": null,
+                "type": "single day",
+                "visibility": "public"
+            },
+            {
+                "title": "Announcement 2 of USTHB",
+                "description": "The University of Science and Technology Houari Boumediene is having an event",
+                "location": "USTHB",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-3.png",
+                "date": null,
+                "start_date": "2023-05-23",
+                "end_date": "2023-05-26",
+                "type": "period",
+                "visibility": "public"
+            },
+            {
+                "title": "Announcement 3 of USTHB",
+                "description": "The University of Science and Technology Houari Boumediene is having an event",
+                "location": "USTHB",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-4.jpg",
+                "date": null,
+                "start_date": "2023-05-23",
+                "end_date": "2023-05-26",
+                "type": "period",
+                "visibility": "public"
+            }
+        ]
+    },
+    {
+        "name": "Higher School of Computer Science 08 May 1945 Sidi Bel Abbes",
+        "short_name": "ESI SBA",
+        "logo": "http://localhost:8000/storage/establishments/esi-sba.png",
+        "description": "The Higher School of Computer Science ESI SBA is a prestigious academic institution in Algeria that focuses on computer science education and research. It offers undergraduate and graduate programs, as well as various research opportunities.",
+        "headmaster": {
+            "username": "sidi_mohammed",
+            "email": "s.benslimane@esi-sba.dz",
+            "phone_number": "0559075235",
+            "photo_url": "http://localhost:8000/images/users/benslimane.jpeg",
+            "person": {
+                "first_name": "Sidi Mohammed",
+                "last_name": "Benslimane"
+            }
+        },
+        "announcements": [
+            {
+                "title": "Announcement competition for access to the second cycle",
+                "description": "The competition for access to the second cycle of engineering training at the computer science school of Sidi-Bel-Abbès will be organized on Monday, June 26, 2023 . The competition is open to: students from other schools in the same field who have successfully completed the two years of preparatory training and students who have successfully completed two years of a Bachelor's degree at a university or university center (being enrolled in L2 or L3), without any repetition, and have not been subject to any disciplinary measure. The pre-selection criteria for application files are at the discretion of the school's authorized competition committee.",
+                "location": "ESI SBA",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-5.png",
+                "date": "2023-06-26",
+                "start_date": null,
+                "end_date": null,
+                "type": "single day",
+                "visibility": "public"
+            },
+            {
+                "title": "Huawei ICT competition",
+                "description": "The competition for access to the second cycle of engineering training at the computer science school of Sidi-Bel-Abbès will be organized on Monday, June 26, 2023 . The competition is open to: students from other schools in the same field who have successfully completed the two years of preparatory training and students who have successfully completed two years of a Bachelor's degree at a university or university center (being enrolled in L2 or L3), without any repetition, and have not been subject to any disciplinary measure. The pre-selection criteria for application files are at the discretion of the school's authorized competition committee.",
+                "location": "Shenzhen Guangdong, China",
+                "photo": "http://localhost:8000/storage/annoucements/annonce-6.jpg",
+                "date": null,
+                "start_date": "2023-05-23",
+                "end_date": "2023-05-26",
+                "type": "period",
+                "visibility": "public"
+            }
+        ]
+    }
+]

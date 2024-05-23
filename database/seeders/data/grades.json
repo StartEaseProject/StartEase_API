@@ -1,0 +1,18 @@
+[
+    { "name": "Assistant Professor", "type": "teacher" },
+    { "name": "Associate Professor", "type": "teacher" },
+    { "name": "Professor", "type": "teacher" },
+    { "name": "Emeritus Professor", "type": "teacher" },
+    { "name": "Lecturer", "type": "teacher" },
+    { "name": "Research Associate", "type": "teacher" },
+    { "name": "Research Professor", "type": "teacher" },
+
+    { "name": "Internship Coordinator", "type": "internship_service_member" },
+    { "name": "Internship Advisor", "type": "internship_service_member" },
+    { "name": "Placement Manager", "type": "internship_service_member" },
+    { "name": "Internship Supervisor", "type": "internship_service_member" },
+    { "name": "Internship Program Director", "type": "internship_service_member" },
+    { "name": "Internship Coordinator Assistant", "type": "internship_service_member" },
+    { "name": "Career Services Advisor", "type": "internship_service_member" },
+    { "name": "Employer Relations Manager", "type": "internship_service_member" }
+]

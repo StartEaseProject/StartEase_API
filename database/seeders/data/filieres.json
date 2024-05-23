@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Medicine",
+        "specialities": [
+            "General Medicine",
+            "Surgery",
+            "Pediatrics",
+            "Obstetrics and Gynecology",
+            "Dermatology",
+            "Radiology",
+            "Anesthesiology"
+        ]
+    },
+    {
+        "name": "Computer Science",
+        "specialities": [
+            "Software Development",
+            "Networking",
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Embedded Systems",
+            "Data Engineering"
+        ]
+    },
+    {
+        "name": "Civil Engineering",
+        "specialities": [
+            "Construction",
+            "Structures",
+            "Geotechnical Engineering",
+            "Hydraulics",
+            "Project Management",
+            "Urban Infrastructure"
+        ]
+    },
+    {
+        "name": "Law",
+        "specialities": [
+            "Business Law",
+            "International Law",
+            "Criminal Law",
+            "Constitutional Law",
+            "Labor Law",
+            "Intellectual Property Law"
+        ]
+    },
+    {
+        "name": "Economics and Management Sciences",
+        "specialities": [
+            "General Economics",
+            "Finance",
+            "Marketing",
+            "Human Resources Management",
+            "Accounting",
+            "Financial Analysis"
+        ]
+    },
+    {
+        "name": "Applied Foreign Languages",
+        "specialities": [
+            "Translation and Interpretation",
+            "Multilingual Communication",
+            "International Relations",
+            "Tourism",
+            "Language Teaching"
+        ]
+    },
+    {
+        "name": "Environmental Sciences",
+        "specialities": [
+            "Ecology",
+            "Natural Resource Management",
+            "Renewable Energy",
+            "Environmental Impact Assessment",
+            "Waste Management"
+        ]
+    },
+    {
+        "name": "Psychology",
+        "specialities": [
+            "Clinical Psychology",
+            "Industrial and Organizational Psychology",
+            "Educational Psychology",
+            "Neuropsychology",
+            "Social Psychology",
+            "Psychopathology"
+        ]
+    },
+    {
+        "name": "Life and Natural Sciences",
+        "specialities": [
+            "Biology",
+            "Chemistry",
+            "Physics",
+            "Geology",
+            "Biochemistry",
+            "Microbiology",
+            "Botany",
+            "Zoology"
+        ]
+    },
+    {
+        "name": "Arts and Design",
+        "specialities": [
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Fashion Design",
+            "Visual Arts",
+            "Film and Audiovisual",
+            "Digital Arts"
+        ]
+    }
+]
